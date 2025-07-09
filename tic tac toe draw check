@@ -4,5 +4,4 @@ cout << "\n   |   |   " << endl;
 cout << " " << dis[0][0] << " | " << dis[0][1] << " | " << dis[0][2] << " " << endl;
 cout << "___|___|___" << endl;        cout << " " << dis[1][0] << " | " << dis[1][1] << " | " << dis[1][2] << " " << endl;
 cout << "___|___|___" << endl;
-cout << " " << dis[2][0] << " | " << dis[2][1] << " | " << dis[2][2] << " " << endl;
-cout << "   |   |   " << endl;                cout << "The game is a draw!\n";    }return 0;} 
+cout << " " << dis[2][0] << " | " << dis[2][1] << " | " << dis[2][2] << " " << endl;cout << "   |   |   " << endl;                cout << "The game is a draw!\n";    }return 0;} 
